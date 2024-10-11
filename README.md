@@ -1,5 +1,7 @@
 ____________________________________________________________________
 # AOSP-Build
-A super mega guide on how to build Android for ordinary noob people.
+usefull guide on how to build AOSP for ordinary noob people.
 ____________________________________________________________________
+
+In this guide you will learn how to stop being a common custom rom user and increase your level to Build Bot
 
